@@ -1,0 +1,14 @@
+C:\Code\RobotWars\IMX.RobotWars\bin\Debug\net8.0\IMX.RobotWars.exe
+C:\Code\RobotWars\IMX.RobotWars\bin\Debug\net8.0\IMX.RobotWars.deps.json
+C:\Code\RobotWars\IMX.RobotWars\bin\Debug\net8.0\IMX.RobotWars.runtimeconfig.json
+C:\Code\RobotWars\IMX.RobotWars\bin\Debug\net8.0\IMX.RobotWars.dll
+C:\Code\RobotWars\IMX.RobotWars\bin\Debug\net8.0\IMX.RobotWars.pdb
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\IMX.RobotWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\IMX.RobotWars.AssemblyInfoInputs.cache
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\IMX.RobotWars.AssemblyInfo.cs
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\IMX.RobotWars.csproj.CoreCompileInputs.cache
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\IMX.RobotWars.dll
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\refint\IMX.RobotWars.dll
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\IMX.RobotWars.pdb
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\IMX.RobotWars.genruntimeconfig.cache
+C:\Code\RobotWars\IMX.RobotWars\obj\Debug\net8.0\ref\IMX.RobotWars.dll
