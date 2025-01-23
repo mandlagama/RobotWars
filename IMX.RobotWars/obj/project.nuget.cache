@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NU4rqzCkNXM=",
+  "success": true,
+  "projectFilePath": "C:\\Code\\RobotWars\\IMX.RobotWars\\IMX.RobotWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mandl\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
