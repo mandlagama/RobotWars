@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IMX.RobotWars/1.0.0": {
+        "runtime": {
+          "IMX.RobotWars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMX.RobotWars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
