@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMX.RobotWars", "IMX.RobotWars.csproj", "{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMX.RobotWars.Tests", "..\IMX.RobotWars.Tests\IMX.RobotWars.Tests.csproj", "{A777B724-60B9-491B-B169-A85A459BADDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A777B724-60B9-491B-B169-A85A459BADDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A777B724-60B9-491B-B169-A85A459BADDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A777B724-60B9-491B-B169-A85A459BADDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A777B724-60B9-491B-B169-A85A459BADDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AEBE89B-79FD-4FC8-806A-4E637F43AB00}
+	EndGlobalSection
+EndGlobal
