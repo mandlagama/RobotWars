@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\RobotWars\\IMX.RobotWars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|c:\\code\\robotwars\\imx.robotwars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A777B724-60B9-491B-B169-A85A459BADDC}|..\\IMX.RobotWars.Tests\\IMX.RobotWars.Tests.csproj|c:\\code\\robotwars\\imx.robotwars.tests\\robotwarstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|c:\\code\\robotwars\\imx.robotwars\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|solutionrelative:robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|c:\\code\\robotwars\\imx.robotwars\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|c:\\code\\robotwars\\imx.robotwars\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A066B99C-75D3-4385-A9E6-6AAB110DA8F2}|IMX.RobotWars.csproj|solutionrelative:arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RobotWarsTests.cs",
+              "DocumentMoniker": "C:\\Code\\RobotWars\\IMX.RobotWars.Tests\\RobotWarsTests.cs",
+              "RelativeDocumentMoniker": "..\\IMX.RobotWars.Tests\\RobotWarsTests.cs",
+              "ToolTip": "C:\\Code\\RobotWars\\IMX.RobotWars.Tests\\RobotWarsTests.cs",
+              "RelativeToolTip": "..\\IMX.RobotWars.Tests\\RobotWarsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:20:52.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Code\\RobotWars\\IMX.RobotWars\\Robot.cs",
+              "RelativeDocumentMoniker": "Robot.cs",
+              "ToolTip": "C:\\Code\\RobotWars\\IMX.RobotWars\\Robot.cs",
+              "RelativeToolTip": "Robot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:14:47.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Code\\RobotWars\\IMX.RobotWars\\Position.cs",
+              "RelativeDocumentMoniker": "Position.cs",
+              "ToolTip": "C:\\Code\\RobotWars\\IMX.RobotWars\\Position.cs",
+              "RelativeToolTip": "Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:12:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Code\\RobotWars\\IMX.RobotWars\\Arena.cs",
+              "RelativeDocumentMoniker": "Arena.cs",
+              "ToolTip": "C:\\Code\\RobotWars\\IMX.RobotWars\\Arena.cs",
+              "RelativeToolTip": "Arena.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:09:02.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\RobotWars\\IMX.RobotWars\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Code\\RobotWars\\IMX.RobotWars\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:03:21.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
